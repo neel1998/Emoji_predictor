@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EmojiPredictor</string>
+    <string name="emoji_0">Emoji 0</string>
+    <string name="emoji_1">Emoji 1</string>
+    <string name="emoji_2">Emoji 2</string>
+    <string name="emoji_3">Emoji 3</string>
+    <string name="emoji_4">Emoji 4</string>
+    <string name="emoji_5">Emoji 5</string>
+</resources>
